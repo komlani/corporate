@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<heimer-mind-map version="2.8.0">
+ <color r="186" b="182" g="189"/>
+ <edge-color r="0" b="0" g="0"/>
+ <grid-color r="160" b="164" g="160"/>
+ <edge-width>2000</edge-width>
+ <text-size>11000</text-size>
+ <corner-radius>10000</corner-radius>
+ <graph>
+  <node index="18" h="75000" x="-554500" y="-876000" w="200000">
+   <text>**abouts</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="15" h="79000" x="348500" y="-680000" w="200000">
+   <text>**media_categories
+
+name</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="26" h="79000" x="348500" y="605000" w="200000">
+   <text>**officials
+
+</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="9" h="79000" x="48500" y="-876000" w="200000">
+   <text>**link_types
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="28" h="113000" x="48500" y="605000" w="200000">
+   <text>**client
+
+avatar 255
+message 255
+</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="25" h="79000" x="657500" y="801000" w="200000">
+   <text>**human_types
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="24" h="96000" x="657500" y="605000" w="200000">
+   <text>**humans
+
+first_name 50
+last_name 50</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="27" h="79000" x="348500" y="801000" w="200000">
+   <text>**works
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="31" h="75000" x="348500" y="163000" w="200000">
+   <text>**teams
+</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="14" h="79000" x="348500" y="-484000" w="200000">
+   <text>**medias
+
+link 255</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="38" h="75000" x="-251500" y="-50000" w="200000">
+   <text>**faqs</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="1" h="113000" x="348500" y="-50000" w="200000">
+   <text>**corporations
+
+name 30
+description 128
+slogan 128</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="39" h="79000" x="48500" y="163000" w="200000">
+   <text>*terms_of_services
+
+intro text</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="2" h="79000" x="348500" y="-271000" w="200000">
+   <text>**site_pages
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="5" h="79000" x="-554500" y="-50000" w="200000">
+   <text>**item_types
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="42" h="79000" x="-233" y="-44958" w="200000">
+   <text>**privacy_policies
+
+intro text</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="35" h="79000" x="-554500" y="605000" w="200000">
+   <text>**currencies
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="0" h="96000" x="657500" y="-50000" w="219000">
+   <text>Corporate 
+
+100% dynamic web site with 
+Laravel 8 + Voyager.</text>
+   <color r="239" b="41" g="41"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="37" h="79000" x="-857500" y="384000" w="200000">
+   <text>**feature_pricing
+
+is_active bool default 1</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="46" h="79000" x="657500" y="-484000" w="200000">
+   <text>**media_types
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="3" h="113000" x="48500" y="-271000" w="200000">
+   <text>**sections
+
+name 30
+title 40
+description 255 </text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="6" h="96000" x="-554500" y="-680000" w="200000">
+   <text>**iconable_items
+
+title 50
+value 255</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="43" h="75000" x="657500" y="384000" w="200000">
+   <text>**visitors</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="19" h="130000" x="-251500" y="-271000" w="200000">
+   <text>**descriptions
+
+descriptionable_type 30
+title 60
+subtitle 80
+content 255</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="36" h="79000" x="-857500" y="605000" w="200000">
+   <text>**features
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="20" h="96000" x="-554500" y="163000" w="200000">
+   <text>**skills
+
+title 30
+value 3</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="7" h="96000" x="-251500" y="-876000" w="200000">
+   <text>**icons
+
+class 30
+is_extended  default 0</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="44" h="113000" x="657500" y="163000" w="200000">
+   <text>**questionnings
+
+subject 80
+message 255
+</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="34" h="130000" x="-554500" y="384000" w="206000">
+   <text>**pricings
+
+title 40
+month_price 10
+is_featured bool default 0
+is_advanced bool default 0 </text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="23" h="79000" x="48500" y="801000" w="200000">
+   <text>**customer_types
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="29" h="79000" x="-251500" y="384000" w="200000">
+   <text>**enterprises
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="45" h="79000" x="657500" y="-271000" w="200000">
+   <text>**newstellers
+
+email 255</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="8" h="79000" x="48500" y="-680000" w="200000">
+   <text>**links
+
+url 255</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="11" h="79000" x="-251500" y="-680000" w="200000">
+   <text>**contact_types
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="13" h="79000" x="-251500" y="801000" w="200000">
+   <text>**logo_categories
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="30" h="79000" x="348500" y="384000" w="200000">
+   <text>**employees
+
+profile 255</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="22" h="75000" x="48500" y="384000" w="200000">
+   <text>**customers</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="12" h="113000" x="-251500" y="605000" w="200000">
+   <text>**logos
+
+logoable_type 30
+link 255
+</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="33" h="79000" x="348500" y="-876000" w="200000">
+   <text>**project_categories
+
+name 30</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="32" h="96000" x="48500" y="-484000" w="200000">
+   <text>**projects
+
+name 30
+realization_date </text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="4" h="75000" x="-251500" y="163000" w="200000">
+   <text>**items</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="21" h="75000" x="-857500" y="-680000" w="200000">
+   <text>**counts
+</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="17" h="79000" x="-554500" y="-484000" w="200000">
+   <text>**services
+
+is_featured default 0</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <node index="10" h="79000" x="-251500" y="-484000" w="200000">
+   <text>**contacts
+
+value 255</text>
+   <color r="255" b="255" g="255"/>
+   <text-color r="0" b="0" g="0"/>
+  </node>
+  <edge index1="27" index0="26" arrow-mode="0" reversed="1"/>
+  <edge index1="30" index0="26" arrow-mode="0" reversed="0"/>
+  <edge index1="28" index0="26" arrow-mode="0" reversed="0"/>
+  <edge index1="26" index0="24" arrow-mode="0" reversed="0"/>
+  <edge index1="25" index0="24" arrow-mode="0" reversed="1"/>
+  <edge index1="43" index0="24" arrow-mode="0" reversed="0"/>
+  <edge index1="15" index0="14" arrow-mode="0" reversed="1"/>
+  <edge index1="19" index0="38" arrow-mode="0" reversed="0">
+   <text>morphOne</text>
+  </edge>
+  <edge index1="14" index0="1" arrow-mode="0" reversed="0">
+   <text>morphMany</text>
+  </edge>
+  <edge index1="24" index0="1" arrow-mode="0" reversed="0"/>
+  <edge index1="42" index0="1" arrow-mode="0" reversed="0"/>
+  <edge index1="31" index0="1" arrow-mode="0" reversed="0"/>
+  <edge index1="10" index0="1" arrow-mode="0" reversed="0">
+   <text>morphMany</text>
+  </edge>
+  <edge index1="8" index0="1" arrow-mode="0" reversed="0">
+   <text>morphMany</text>
+  </edge>
+  <edge index1="45" index0="1" arrow-mode="0" reversed="0"/>
+  <edge index1="39" index0="1" arrow-mode="0" reversed="0"/>
+  <edge index1="2" index0="1" arrow-mode="0" reversed="0"/>
+  <edge index1="22" index0="1" arrow-mode="0" reversed="0"/>
+  <edge index1="12" index0="1" arrow-mode="0" reversed="0">
+   <text>morphOne</text>
+  </edge>
+  <edge index1="19" index0="39" arrow-mode="0" reversed="0">
+   <text>morphMany</text>
+  </edge>
+  <edge index1="3" index0="2" arrow-mode="0" reversed="0"/>
+  <edge index1="19" index0="42" arrow-mode="0" reversed="0">
+   <text>morphMany</text>
+  </edge>
+  <edge index1="1" index0="0" arrow-mode="0" reversed="0">
+   <text>Database schema</text>
+  </edge>
+  <edge index1="14" index0="46" arrow-mode="0" reversed="0"/>
+  <edge index1="19" index0="3" arrow-mode="0" reversed="0">
+   <text>- about morphOne about</text>
+  </edge>
+  <edge index1="4" index0="3" arrow-mode="0" reversed="0"/>
+  <edge index1="14" index0="3" arrow-mode="0" reversed="0">
+   <text>- about morphOne</text>
+  </edge>
+  <edge index1="7" index0="6" arrow-mode="0" reversed="1"/>
+  <edge index1="17" index0="6" arrow-mode="0" reversed="0"/>
+  <edge index1="18" index0="6" arrow-mode="0" reversed="0"/>
+  <edge index1="21" index0="6" arrow-mode="0" reversed="0"/>
+  <edge index1="44" index0="43" arrow-mode="0" reversed="0"/>
+  <edge index1="37" index0="36" arrow-mode="0" reversed="0"/>
+  <edge index1="9" index0="7" arrow-mode="0" reversed="0"/>
+  <edge index1="11" index0="7" arrow-mode="0" reversed="0"/>
+  <edge index1="37" index0="34" arrow-mode="0" reversed="0"/>
+  <edge index1="35" index0="34" arrow-mode="0" reversed="1"/>
+  <edge index1="12" index0="29" arrow-mode="0" reversed="0">
+   <text>morphOne</text>
+  </edge>
+  <edge index1="9" index0="8" arrow-mode="0" reversed="1"/>
+  <edge index1="31" index0="30" arrow-mode="0" reversed="1"/>
+  <edge index1="28" index0="22" arrow-mode="0" reversed="0"/>
+  <edge index1="32" index0="22" arrow-mode="0" reversed="0"/>
+  <edge index1="29" index0="22" arrow-mode="0" reversed="0"/>
+  <edge index1="23" index0="22" arrow-mode="0" reversed="1"/>
+  <edge index1="13" index0="12" arrow-mode="0" reversed="1"/>
+  <edge index1="8" index0="32" arrow-mode="0" reversed="0">
+   <text>morphOne</text>
+  </edge>
+  <edge index1="33" index0="32" arrow-mode="0" reversed="1"/>
+  <edge index1="14" index0="32" arrow-mode="0" reversed="0">
+   <text>- morphMany
+- morphOne</text>
+  </edge>
+  <edge index1="19" index0="32" arrow-mode="0" reversed="0">
+   <text>morphOne</text>
+  </edge>
+  <edge index1="4" index0="32" arrow-mode="0" reversed="1"/>
+  <edge index1="5" index0="4" arrow-mode="0" reversed="1"/>
+  <edge index1="6" index0="4" arrow-mode="0" reversed="0"/>
+  <edge index1="29" index0="4" arrow-mode="0" reversed="0"/>
+  <edge index1="28" index0="4" arrow-mode="0" reversed="0"/>
+  <edge index1="38" index0="4" arrow-mode="0" reversed="0"/>
+  <edge index1="30" index0="4" arrow-mode="0" reversed="0"/>
+  <edge index1="20" index0="4" arrow-mode="0" reversed="0"/>
+  <edge index1="34" index0="4" arrow-mode="0" reversed="0"/>
+  <edge index1="11" index0="10" arrow-mode="0" reversed="1"/>
+  <edge index1="19" index0="10" arrow-mode="0" reversed="0">
+   <text>morphOne</text>
+  </edge>
+ </graph>
+ <layout-optimizer min-edge-length="100000" aspect-ratio="1000"/>
+</heimer-mind-map>
